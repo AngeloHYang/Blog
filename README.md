@@ -6,4 +6,4 @@ If it were to happen that writing notes cannot satisfy me, that I need to write 
 
 ## 2018/12/16
 
-- [Adding Links in Markdown.md](https://www.google.cn)
+- [Adding Links in Markdown.md](https://github.com/AngeloHYang/Blog/blob/master/Dec.%202018/Adding%20Links%20in%20Markdown.md)
