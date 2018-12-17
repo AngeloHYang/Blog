@@ -12,3 +12,7 @@
 
 - Finish Adding Links in Markdown.md
 - Rename the title "Adding Links in Markdown.md" to "Adding Links in Markdown"
+
+## 12/17/2018 1:04:12 PM
+
+- A minor format change
