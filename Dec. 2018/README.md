@@ -16,3 +16,13 @@
 ## 12/17/2018 1:04:12 PM
 
 - A minor format change
+
+## 1/2/2019 Before
+
+- Enable GitHub Pages.
+
+You can call it a real blog now.
+
+## 1/2/2019 22:28
+
+- Add "Back to Home Page" in "Adding Links in Markdown"
