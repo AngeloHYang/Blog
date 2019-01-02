@@ -7,9 +7,3 @@ If it were to happen that writing notes cannot satisfy me, that I need to write 
 ## 2018/12/17
 
 - [Adding Links in Markdown](https://angelohyang.github.io/Blog/Dec.%202018/Adding%20Links%20in%20Markdown)
-
-## 2019/1/2
-
-- Enable GitHub Pages.
-
-You can call it a real blog now.
