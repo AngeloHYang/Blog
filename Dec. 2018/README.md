@@ -26,3 +26,10 @@ You can call it a real blog now.
 ## 1/2/2019 22:28
 
 - Add "Back to Home Page" in "Adding Links in Markdown"
+
+## 1/3/2019  8:29:04 P.M.
+
+- Update Adding Links in Markdown.md
+
+	- Replace "Thanks to" with "References".
+	- Add an icon to "Back To Home Page" and "Next: Adding Photos in Markdown" with an icon
