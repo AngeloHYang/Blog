@@ -1,6 +1,6 @@
 # Adding Links in Markdown
 
-***Last edit: 12/17/2018 12:56:56 PM***
+***Last edit: 1/2/2019 22:28***
 
 As a markup language, Markdown is capable of adding links into it. There are mainly three ways to add links in a md file.
 
