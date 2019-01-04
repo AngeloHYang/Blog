@@ -14,6 +14,3 @@ These dates below stand for when these articles were mostly done. There might be
 
 - [Adding Photos in Markdown](https://angelohyang.github.io/Blog/Jan.%202019/Adding%20Photos%20in%20Markdown)
 
-## 1/??/2019
-
-- [The Difference Between HTML, Markdown, and CSS](https://angelohyang.github.io/Blog/Jan.%202019/The%20Difference%20Between%20HTML%2C%20Markdown%2C%20and%20CSS)
