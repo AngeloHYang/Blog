@@ -36,3 +36,8 @@ I also wrote sonething.
   - Replace "Retrived" with "Retrieved"
 
 > What should I say about grammatical mistakes?😂
+
+## 11:33:48 A.M. 1/4/2019
+
+- Update Adding Photos in Markdown
+  - Hide "Next" to publish

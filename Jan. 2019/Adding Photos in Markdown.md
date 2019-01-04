@@ -1,6 +1,6 @@
 # Adding Photos in Markdown
 
-***Last edit: 11:20:00 A.M. 1/4/2019***
+***Last edit: 11:33:48 A.M. 1/4/2019***
 
 There's no need for me to waste time explaining the importance of having photos in your web pages or others. Photos are nowadays everywhere anyway. It is necessary to know how to insert photos in Markdown. More accurately, I'm talking about adding photos in ***Markdown alone***.
 
@@ -44,6 +44,6 @@ Is there a way to solve this problem? The answer is yes. But the solution is bey
 
 ## **[⇦ Previous: Adding Links in Markdown](https://angelohyang.github.io/Blog/Dec.%202018/Adding%20Links%20in%20Markdown)**
 
-## **[⇨ Next: The Difference Between HTML, Markdown, and CSS](https://angelohyang.github.io/Blog/Jan.%202019/The%20Difference%20Between%20HTML%2C%20Markdown%2C%20and%20CSS)**
+
 
 ## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**
