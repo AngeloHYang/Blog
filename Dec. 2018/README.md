@@ -33,3 +33,8 @@ You can call it a real blog now.
 
 	- Replace "Thanks to" with "References".
 	- Add an icon to "Back To Home Page" and "Next: Adding Photos in Markdown" with an icon
+
+## 10:17:13 A.M. 1/4/2019
+
+- Update Adding Links in Markdown.md
+	- Add reference "Adding Photos in Markdown"
