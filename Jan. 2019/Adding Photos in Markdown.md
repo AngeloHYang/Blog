@@ -1,6 +1,6 @@
 # Adding Photos in Markdown
 
-***Last edit: 11:33:48 A.M. 1/4/2019***
+***Last edit: 11:39:00 A.M. 1/4/2019***
 
 There's no need for me to waste time explaining the importance of having photos in your web pages or others. Photos are nowadays everywhere anyway. It is necessary to know how to insert photos in Markdown. More accurately, I'm talking about adding photos in ***Markdown alone***.
 

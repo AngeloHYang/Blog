@@ -41,3 +41,8 @@ I also wrote sonething.
 
 - Update Adding Photos in Markdown
   - Hide "Next" to publish
+
+## 11:39:00 A.M. 1/4/2019
+
+- Update Adding Photos in Markdown
+  - Withdraw hiding
