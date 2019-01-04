@@ -30,11 +30,17 @@ You can call it a real blog now.
 ## 1/3/2019  8:29:04 P.M.
 
 - Update Adding Links in Markdown.md
-
-	- Replace "Thanks to" with "References".
-	- Add an icon to "Back To Home Page" and "Next: Adding Photos in Markdown" with an icon
+  - Replace "Thanks to" with "References".
+  - Add an icon to "Back To Home Page" and "Next: Adding Photos in Markdown" with an icon
 
 ## 10:17:13 A.M. 1/4/2019
 
 - Update Adding Links in Markdown.md
-	- Add reference "Adding Photos in Markdown"
+  - Add reference "Adding Photos in Markdown"
+
+## 11:20:00 A.M. 1/4/2019
+
+- Update Adding Links in Markdown.md
+  - Markdown grammatically changes
+  - Replace "Janurary" with "January"
+  - Replace "Retrived" with "Retrieved"

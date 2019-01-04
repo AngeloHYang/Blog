@@ -21,4 +21,18 @@ I also wrote sonething.
 ## 1/3/2019 8:33:13 P.M.
 
 - Update Adding Photos in Markdown.md
-	- Add "Previous" and "Home"
+    - Add "Previous" and "Home"
+
+## 11:15:29 A.M. 1/4/2019
+
+- Update Adding Photos in Markdown
+    - Add "Next" with a link to it
+    - Finish writing 
+
+## 11:20:00 A.M. 1/4/2019
+
+- Update Adding Photos in Markdown
+  - Replace "Janurary" with "January"
+  - Replace "Retrived" with "Retrieved"
+
+> What should I say about grammatical mistakes?😂
