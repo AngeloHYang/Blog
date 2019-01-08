@@ -21,13 +21,13 @@ I also wrote sonething.
 ## 1/3/2019 8:33:13 P.M.
 
 - Update Adding Photos in Markdown.md
-    - Add "Previous" and "Home"
+  - Add "Previous" and "Home"
 
 ## 11:15:29 A.M. 1/4/2019
 
 - Update Adding Photos in Markdown
-    - Add "Next" with a link to it
-    - Finish writing 
+  - Add "Next" with a link to it
+  - Finish writing
 
 ## 11:20:00 A.M. 1/4/2019
 
@@ -46,3 +46,9 @@ I also wrote sonething.
 
 - Update Adding Photos in Markdown
   - Withdraw hiding
+
+## 17:48:37 1/8/2019
+
+- Update The Difference Between HTML, Markdown, and CSS.md
+  - Update the first paragraph
+  - Add "Previous" and "Back"
