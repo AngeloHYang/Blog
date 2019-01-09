@@ -57,3 +57,14 @@ I also wrote sonething.
 
 - Update The Difference Between HTML, Markdown, and CSS.md
   - Add "three" after "them"
+
+## 1:00:05 1/10/2019
+
+- Update The Difference Between HTML, Markdown, and CSS.md
+  - Rename "The Difference Between HTML, Markdown, and CSS" to "Things About HTML, Markdown, and CSS.md"
+
+## 1:11:22 1/10/2019
+
+- Update Adding Photos in Markdown
+  - Rename "The Difference Between HTML, Markdown, and CSS" to "Things About HTML, Markdown, and CSS.md"
+  - Update link to what's above

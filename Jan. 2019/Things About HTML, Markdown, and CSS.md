@@ -1,6 +1,6 @@
-# The Difference Between HTML, Markdown, and CSS
+# Things About HTML, Markdown, and CSS
 
-***Last edit: 17:48:37 1/8/2019***
+***Last edit: 1:00:05 1/10/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML or CSS directly before, I believe it is of great use to gather some information about them three.
 

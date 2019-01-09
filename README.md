@@ -16,4 +16,5 @@ These dates below stand for when these articles were mostly done. There might be
 
 ## 1/??/2019
 
-- [The Difference Between HTML, Markdown, and CSS](https://angelohyang.github.io/Blog/Jan.%202019/The%20Difference%20Between%20HTML%2C%20Markdown%2C%20and%20CSS)
+- [Things About HTML, Markdown, and CSS](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20and%20CSS)
+
