@@ -2,7 +2,7 @@
 
 ***Last edit: 17:02:29 1/10/2019***
 
-When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML or CSS directly before, I believe it is of great use to **gather some information** about them three.
+When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
 ----
 
