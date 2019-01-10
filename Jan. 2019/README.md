@@ -68,3 +68,7 @@ I also wrote sonething.
 - Update Adding Photos in Markdown
   - Rename "The Difference Between HTML, Markdown, and CSS" to "Things About HTML, Markdown, and CSS.md"
   - Update link to what's above
+
+## 15:46:02 1/10/2019
+
+- Update Things About HTML, Markdown, and CSS
