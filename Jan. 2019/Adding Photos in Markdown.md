@@ -44,6 +44,6 @@ Is there a way to solve this problem? The answer is yes. But the solution is bey
 
 ## **[⇦ Previous: Adding Links in Markdown](https://angelohyang.github.io/Blog/Dec.%202018/Adding%20Links%20in%20Markdown)**
 
-## **[⇨ Next: Things About HTML, Markdown, and CSS](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20and%20CSS)**
+## **[⇨ Next: Things About HTML, Markdown, CSS, and JavaScript](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20CSS%2C%20and%20JavaScript)**
 
 ## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**

@@ -18,4 +18,4 @@ If you encountered anything problems, feel free to file a bug on GitHub.
 
 ## 1/??/2019
 
-- [Things About HTML, Markdown, and CSS](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20and%20CSS)
+- [Things About HTML, Markdown, CSS, and JavaScript](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20CSS%2C%20and%20JavaScript)

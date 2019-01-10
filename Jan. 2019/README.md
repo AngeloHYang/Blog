@@ -72,3 +72,12 @@ I also wrote sonething.
 ## 15:46:02 1/10/2019
 
 - Update Things About HTML, Markdown, and CSS
+
+## 17:02:29 1/10/2019
+
+- Update Things About HTML, Markdown, and CSS
+  - More contents
+  - Rename it to "Things About HTML, Markdown, CSS, and JavaScript"
+
+- Update Adding Photos in Markdown
+  - Update link at "Next"
