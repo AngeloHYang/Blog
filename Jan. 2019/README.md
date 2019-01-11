@@ -91,3 +91,8 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, and JavaScript
   - More contents
+
+## 23:08:29 1/11/2019
+
+- Update Things About HTML, Markdown, CSS, and JavaScript
+  - Fix link error in "Back", now it'll lead to "Adding Photos in Markdown" correctly

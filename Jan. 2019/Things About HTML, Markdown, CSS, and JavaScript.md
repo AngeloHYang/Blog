@@ -1,6 +1,6 @@
 # Things About HTML, Markdown, CSS, and JavaScript
 
-***Last edit: 23:03:52 1/11/2019***
+***Last edit: 23:08:29 1/11/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
@@ -76,6 +76,6 @@ Markdown is a lig
 
 ----
 
-## **[⇦ Previous: Adding Photos in Markdown](https://angelohyang.github.io/Blog/Jan.%202019/The%20Difference%20Between%20HTML%2C%20Markdown%2C%20and%20CSS)**
+## **[⇦ Previous: Adding Photos in Markdown](https://angelohyang.github.io/Blog/Jan.%202019/Adding%20Photos%20in%20Markdown)**
 
 ## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**
