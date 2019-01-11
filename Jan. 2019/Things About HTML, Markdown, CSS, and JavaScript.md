@@ -1,6 +1,6 @@
 # Things About HTML, Markdown, CSS, and JavaScript
 
-***Last edit: 18:14:02 1/11/2019***
+***Last edit: 23:03:52 1/11/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
@@ -36,9 +36,25 @@ Before we go and explain the line above, here are some questions we should focus
   
   In a word, when you see texts that lead you to other texts, consider them as hypertexts.
 
-Here we are back to the topic "HTML".
+Here we are back to the topic "HTML". So, what does a HTML file look like? Let's take a look at this "hello, world" in HTML:
 
+    <!DOCTYPE html>
+    <html>
 
+    <head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+    </head>
+
+    <body>
+    </body>
+    </html>
+
+By the word "standard" you may see that most websites are written in HTML, or HTML takes a huge part in creating them. With HTML, you can add pictures, texts, etc in the way you want to a website or a document. HTML was first released in 1993, that's probably why it becomes so universal.
+
+However, a "pure" HTML web page is usually static while most of the web pages that you see on the Internet seem to be dynamic. Well, that's because
+
+> HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), maintainer of both the HTML and the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.
 
 ### 2. Markdown
 
@@ -55,6 +71,8 @@ Markdown is a lig
 3. [Markdown](https://en.wikipedia.org/wiki/Markdown), from Wikipedia. Retrieved in January, 10, 2019.
 
 4. [Hypertext](https://en.wikipedia.org/wiki/Hypertext#cite_note-1), from Wikipedia. Retrieved in January, 11, 2019.
+
+5. "hello world" in HTML, from [【Html】第一个网页helloworld](https://www.cnblogs.com/carsonwuu/p/7470107.html). Retrieved in January, 11, 2019.
 
 ----
 
