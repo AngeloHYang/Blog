@@ -81,3 +81,8 @@ I also wrote sonething.
 
 - Update Adding Photos in Markdown
   - Update link at "Next"
+
+## 18:14:02 1/11/2019
+
+- Update Things About HTML, Markdown, CSS, and JavaScript
+  - More contents

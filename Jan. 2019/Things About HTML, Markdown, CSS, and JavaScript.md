@@ -1,6 +1,6 @@
 # Things About HTML, Markdown, CSS, and JavaScript
 
-***Last edit: 17:02:29 1/10/2019***
+***Last edit: 18:14:02 1/11/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
@@ -30,7 +30,15 @@ Before we go and explain the line above, here are some questions we should focus
 
 - What does "Hypertext" mean?
 
-  Well.
+  Well, according to Wikipedia,
+
+  > Hypertext is text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access.
+  
+  In a word, when you see texts that lead you to other texts, consider them as hypertexts.
+
+Here we are back to the topic "HTML".
+
+
 
 ### 2. Markdown
 
@@ -45,6 +53,8 @@ Markdown is a lig
 2. [Markup language](https://en.wikipedia.org/wiki/Markup_language), from Wikipedia. Retrieved in January, 10, 2019.
 
 3. [Markdown](https://en.wikipedia.org/wiki/Markdown), from Wikipedia. Retrieved in January, 10, 2019.
+
+4. [Hypertext](https://en.wikipedia.org/wiki/Hypertext#cite_note-1), from Wikipedia. Retrieved in January, 11, 2019.
 
 ----
 
