@@ -1,6 +1,6 @@
-# Things About HTML, Markdown, CSS, and JavaScript
+# Things About HTML, Markdown, CSS, LaTeX, and JavaScript
 
-***Last edit: 14:49:33 1/12/2019***
+***Last edit: 16:10:55 1/12/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 

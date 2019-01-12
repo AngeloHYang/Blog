@@ -101,3 +101,11 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, and JavaScript
   - Add more contents
+
+## 16:10:55 1/12/2019
+
+- Update Things About HTML, Markdown, CSS, and JavaScript
+  - Rename it to "Things About HTML, Markdown, CSS, LaTeX, and JavaScript"
+
+- Update Adding Photos in Markdown
+  - Update link in "Next"
