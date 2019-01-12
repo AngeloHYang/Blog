@@ -1,6 +1,6 @@
 # Things About HTML, Markdown, CSS, and JavaScript
 
-***Last edit: 23:08:29 1/11/2019***
+***Last edit: 14:49:33 1/12/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
@@ -58,7 +58,15 @@ However, a "pure" HTML web page is usually static while most of the web pages th
 
 ### 2. Markdown
 
-Markdown is a lig
+> Markdown is a lightweight markup language with plain text formatting syntax.
+
+You can easily tell that Markdown is way much easier comparing to HTML while it can create a relevantly good document with basic layouts. I will not give any example here. It's usually used to write README files or taking notes, etc. It was first released in 2004.
+
+However, one of the disadvantages of Markdown is that the language is so easy that it can't deal with complicated circumstances. If you want to insert a photo at a specific position or do any other "high-tech" stuff, you may be disappointed if you are trying to do that in **pure Markdown**.
+
+Luckily, there is a solution to that. You can add HTML and CSS codes to a ".md" file.
+
+### 3. CSS
 
 ----
 
@@ -68,11 +76,11 @@ Markdown is a lig
 
 2. [Markup language](https://en.wikipedia.org/wiki/Markup_language), from Wikipedia. Retrieved in January, 10, 2019.
 
-3. [Markdown](https://en.wikipedia.org/wiki/Markdown), from Wikipedia. Retrieved in January, 10, 2019.
+3. "hello world" in HTML, from [【Html】第一个网页helloworld](https://www.cnblogs.com/carsonwuu/p/7470107.html). Retrieved in January, 11, 2019.
 
 4. [Hypertext](https://en.wikipedia.org/wiki/Hypertext#cite_note-1), from Wikipedia. Retrieved in January, 11, 2019.
 
-5. "hello world" in HTML, from [【Html】第一个网页helloworld](https://www.cnblogs.com/carsonwuu/p/7470107.html). Retrieved in January, 11, 2019.
+5. [Markdown](https://en.wikipedia.org/wiki/Markdown), from Wikipedia. Retrieved in January, 10, 2019.
 
 ----
 
