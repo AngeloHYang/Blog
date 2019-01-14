@@ -114,3 +114,9 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
   - Add photo "HTML - How to Meet Ladies"
+
+## 17:13:40 1/14/2019
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - Fix "Last edit" error
+  - Fix word warp
