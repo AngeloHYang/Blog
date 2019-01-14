@@ -109,3 +109,8 @@ I also wrote sonething.
 
 - Update Adding Photos in Markdown
   - Update link in "Next"
+
+## 17:01:36 1/14/2019
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - Add photo "HTML - How to Meet Ladies"

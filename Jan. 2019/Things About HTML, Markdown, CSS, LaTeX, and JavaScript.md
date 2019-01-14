@@ -10,7 +10,12 @@ When it comes to creating a web page, the word HTML occurs constantly. As I stud
 
 ### 1. HTML
 
-HTML stands for "Hypertext Markup Language". According to Wikipedia,
+HTML stands for "Hypertext Markup Language".
+
+> ![how-to-meet-ladies](http://devhumor.com/content/uploads/images/November2014/html.jpg) 
+> No, not "How to Meet Ladies"! 😂
+
+According to Wikipedia,
 
 > HTML is the standard markup language for creating web pages and web applications.
 
@@ -73,6 +78,8 @@ Luckily, there is a solution to that. You can add HTML and CSS codes to a ".md" 
 ## References
 
 1. [HTML](https://en.wikipedia.org/wiki/HTML), from Wikipedia. Retrieved in January, 10, 2019.
+
+2. [How to Meet Ladies](http://devhumor.com/media/html-how-to-meet-ladieshttp://devhumor.com/media/html-how-to-meet-ladies), from <http://devhumor.com/media/html-how-to-meet-ladies>, submitted by: admin. Retrieved in January, 14, 2019. 
 
 2. [Markup language](https://en.wikipedia.org/wiki/Markup_language), from Wikipedia. Retrieved in January, 10, 2019.
 
