@@ -1,10 +1,10 @@
 # Adding Links in Markdown
 
-***Last edit: 11:20:00 A.M. 1/4/2019***
+***Last edit: 14:48:29 1/14/2019***
 
-As a markup language, Markdown is capable of adding links into it. There are mainly three ways to add links in a md file.
+As a markup language, Markdown is capable of adding links into a web page/document. There are mainly three ways to add links in a md file.
 
-## 1. Adding links in a line
+## 1. A word/phrase that points to a link
 
     [name of a link](address of the link "With a Title")
 
@@ -12,7 +12,7 @@ This is usually used when you want to add links in a line with a name or other t
 
 I used this to add link as follows. [Markdown 插入链接](https://www.jianshu.com/p/ab539e9a7955 "Markdown 插入链接 - 来自简书")
 
-Can you add links to photos? Well, don't forget the way to add photos in Markdown is
+Can the word/phrase be a photo? Well, don't forget the way to add a photo in Markdown is
 
     ![you can add a name here(optional)](put your link here)
 
@@ -22,7 +22,7 @@ The answer is yes.
 
 ## 2. Reference
 
-We could also name a link, so that when we need to add this link multiple times, instead of adding the link as what's above, we could simply call it's name.
+We could also name a link, so that when we need to add this link multiple times, instead of adding the link with the way above, we could simply call it's name.
 
 This is how you call it:
 
