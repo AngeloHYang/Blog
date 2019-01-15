@@ -143,3 +143,8 @@ I also wrote sonething.
 ## 00:08:42 1/16/2019
 
 - Finish Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+
+## 0:15:47 1/16/2019
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - Fix word wrap with "\" in quote(>)
