@@ -120,3 +120,9 @@ I also wrote sonething.
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
   - Fix "Last edit" error
   - Fix word warp
+
+## 12:50:13 1/15/2019
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - Fix dead link to photo "html-how to meet ladies"
+    Now it's provided by GitHub User Contents.
