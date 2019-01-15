@@ -134,3 +134,8 @@ I also wrote sonething.
   - More contents
   - Redesigned structure\
     Now you can see languages under different type names.
+
+## 17:56:11 1/15/2019
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - More contents

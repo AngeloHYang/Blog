@@ -1,6 +1,6 @@
 # Things About HTML, Markdown, CSS, LaTeX, and JavaScript
 
-***Last edit: 16:58:57 1/15/2019***
+***Last edit: 17:56:11 1/15/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
@@ -31,6 +31,8 @@ Before we go and learn some famous markup languages, here are some questions we 
   > Hypertext is text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access.
   
   In a word, when you see texts that lead you to other texts, consider them as hypertexts.
+
+Here are some popular markup languages:
 
 #### 1. HTML
 
@@ -73,11 +75,27 @@ However, one of the disadvantages of Markdown is that the language is so easy th
 
 Luckily, there is a solution to that. You can add HTML and CSS codes to a ".md" file.
 
+#### 3. LaTeX
+
+> LaTeX (/ˈlɑːtɛx/ LAH-tekh or /ˈleɪtɛx/ LAY-tekh; a shortening of Lamport TeX) is a document preparation system. When writing, the writer uses plain text as opposed to the formatted text found in WYSIWYG ("what you see is what you get") word processors like Microsoft Word, LibreOffice Writer and Apple Pages. The writer uses markup tagging conventions to define the general structure of a document (such as article, book, and letter), to stylise text throughout a document (such as bold and italics), and to add citations and cross-references. A TeX distribution such as TeX Live or MikTeX is used to produce an output file (such as PDF or DVI) suitable for printing or digital distribution.
+
+Funny thing about its name is that:
+
+> Within the typesetting system, its name is stylised as ![LaTeX](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1920px-LaTeX_logo.svg.png)
+
+But you may also go with LaTeX.
+
+It was **initially released in 1983**.
+
+#### 4. Scribe, GML, SGML, XML, etc
+
 ### Style Sheet Language
 
 - What does "Style Sheet Language" mean?
   
-  Well
+  > A style sheet language, or style language, is a computer language that expresses the presentation of structured documents.
+
+  In short, a style sheet language tells your contents in a document how to display.
 
 #### 1. CSS
 
@@ -104,11 +122,22 @@ It looks like this:
 
 The language was **first released in 1996**.
 
-> CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+> CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.\
+> In addition to HTML, other markup languages support the use of CSS including XHTML, plain XML, SVG, and XUL.
 
-### 4. LaTeX
+### Programming Languages
 
-w
+#### 1. JavaScript
+
+> JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.
+
+NO! JavaScript ≠ Java.
+
+![Java 和 Javascript的关系，就和雷锋和雷峰塔一样](http://www.runoob.com/wp-content/uploads/2014/06/9c32a3e498cb5822f8fb3cd0d07b4a78_m.jpg)
+
+Rumors has it that the reason why it is called JavaScript, with the word "Java" inside, is that Java was popular then and naming it as "**Java**Script" also made this language popular.
+
+This language is used in webs very often.
 
 ----
 
@@ -126,9 +155,15 @@ w
 
 6. [Markdown](https://en.wikipedia.org/wiki/Markdown), from Wikipedia. Retrieved in January, 10, 2019.
 
-7. [Style sheet language](https://en.wikipedia.org/wiki/Style_sheet_language), from Wikipedia. Retrieved in January, 15, 2019.
+7. [LaTex](https://en.wikipedia.org/wiki/LaTeX), from Wikipedia. Retrieved in January, 15, 2019.
 
-8. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), from Wikipedia. Retrieved in January, 15, 2019.
+8. [Style sheet language](https://en.wikipedia.org/wiki/Style_sheet_language), from Wikipedia. Retrieved in January, 15, 2019.
+
+9. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), from Wikipedia. Retrieved in January, 15, 2019.
+
+10. Photo [Java 和 Javascript的关系，就和雷锋和雷峰塔一样](http://www.runoob.com/wp-content/uploads/2014/06/9c32a3e498cb5822f8fb3cd0d07b4a78_m.jpg),  from 菜鸟教程. Retrieved in 1/15/2019.
+
+11. [Java 和 Javascript的关系](http://www.runoob.com/w3cnote/java-and-javascript-relationship.html), from 菜鸟教程. Retrieved in 1/15/2019.
 
 ----
 
