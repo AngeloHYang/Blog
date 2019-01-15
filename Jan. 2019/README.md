@@ -95,7 +95,8 @@ I also wrote sonething.
 ## 23:08:29 1/11/2019
 
 - Update Things About HTML, Markdown, CSS, and JavaScript
-  - Fix link error in "Back", now it'll lead to "Adding Photos in Markdown" correctly
+  - Fix link error in "Back"\
+  now it'll lead to "Adding Photos in Markdown" correctly
 
 ## 14:49:33 1/12/2019
 
@@ -124,5 +125,12 @@ I also wrote sonething.
 ## 12:50:13 1/15/2019
 
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
-  - Fix dead link to photo "html-how to meet ladies"
+  - Fix dead link to photo "html-how to meet ladies"\
     Now it's provided by GitHub User Contents.
+
+## 16:58:57 1/15/2019
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - More contents
+  - Redesigned structure\
+    Now you can see languages under different type names.
