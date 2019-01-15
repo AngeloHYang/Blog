@@ -38,7 +38,8 @@ Here are some popular markup languages:
 
 HTML stands for "Hypertext Markup Language".
 
-> ![how-to-meet-ladies](https://raw.githubusercontent.com/AngeloHYang/Blog/master/Jan.%202019/html.jpg)\
+> ![how-to-meet-ladies](https://raw.githubusercontent.com/AngeloHYang/Blog/master/Jan.%202019/html.jpg)
+>
 > No, not "How to Meet Ladies"! 😂
 
 According to Wikipedia,
@@ -122,7 +123,8 @@ It looks like this:
 
 The language was **first released in 1996**.
 
-> CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.\
+> CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+>
 > In addition to HTML, other markup languages support the use of CSS including XHTML, plain XML, SVG, and XUL.
 
 ### Programming Languages
