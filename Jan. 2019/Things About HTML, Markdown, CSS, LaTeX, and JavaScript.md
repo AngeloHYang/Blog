@@ -1,6 +1,6 @@
 # Things About HTML, Markdown, CSS, LaTeX, and JavaScript
 
-***Last edit: 17:56:11 1/15/2019***
+***Last edit: 00:08:42 1/16/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
@@ -137,7 +137,19 @@ NO! JavaScript ≠ Java.
 
 Rumors has it that the reason why it is called JavaScript, with the word "Java" inside, is that Java was popular then and naming it as "**Java**Script" also made this language popular.
 
-This language is used in webs very often.
+This language is used in webs very often. It was **initially released in 1995**.
+
+----
+
+## Table of Languages
+
+| Language | Type | Release Year |
+| ---- | ---- | ----: |
+| HTML | Markup Language | 1993 |
+| Markdown | Markup Language | 2004 |
+| LaTeX | Markup Language | 1983 |
+| CSS | Style Sheet Language | 1996 |
+| JavaScript | Programming Languages | 1995 |
 
 ----
 
@@ -161,9 +173,11 @@ This language is used in webs very often.
 
 9. [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), from Wikipedia. Retrieved in January, 15, 2019.
 
-10. Photo [Java 和 Javascript的关系，就和雷锋和雷峰塔一样](http://www.runoob.com/wp-content/uploads/2014/06/9c32a3e498cb5822f8fb3cd0d07b4a78_m.jpg),  from 菜鸟教程. Retrieved in 1/15/2019.
+10. [JavaScript](https://en.wikipedia.org/wiki/JavaScript), from Wikipedia. Retrieved in January, 15, 2019.
 
-11. [Java 和 Javascript的关系](http://www.runoob.com/w3cnote/java-and-javascript-relationship.html), from 菜鸟教程. Retrieved in 1/15/2019.
+11. Photo [Java 和 Javascript的关系，就和雷锋和雷峰塔一样](http://www.runoob.com/wp-content/uploads/2014/06/9c32a3e498cb5822f8fb3cd0d07b4a78_m.jpg),  from 菜鸟教程. Retrieved in 1/15/2019.
+
+12. [Java 和 Javascript的关系](http://www.runoob.com/w3cnote/java-and-javascript-relationship.html), from 菜鸟教程. Retrieved in 1/15/2019.
 
 ----
 

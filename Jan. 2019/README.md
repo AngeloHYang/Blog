@@ -139,3 +139,7 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
   - More contents
+
+## 00:08:42 1/16/2019
+
+- Finish Things About HTML, Markdown, CSS, LaTeX, and JavaScript
