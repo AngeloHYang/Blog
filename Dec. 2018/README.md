@@ -44,3 +44,8 @@ You can call it a real blog now.
   - Markdown grammatically changes
   - Replace "Janurary" with "January"
   - Replace "Retrived" with "Retrieved"
+
+## 14:48:29 1/14/2019
+
+- Update Adding Links in Markdown
+  - Grammatical changes 
