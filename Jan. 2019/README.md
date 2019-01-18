@@ -157,3 +157,8 @@ I also wrote sonething.
 
 - Update A Journey to macOS
   - Create "Dock", "Three Buttons on a Window"
+
+## 21:01:49 1/18/2019
+
+- Update A Journey to macOS
+  - Create more titles
