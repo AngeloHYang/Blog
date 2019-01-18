@@ -152,3 +152,8 @@ I also wrote sonething.
 ## 19:28:55 1/18/2019
 
 - Create A Journey to macOS
+
+## 20:38:33 1/18/2019
+
+- Update A Journey to macOS
+  - Create "Dock", "Three Buttons on a Window"
