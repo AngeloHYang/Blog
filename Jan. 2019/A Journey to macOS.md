@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 20:38:33 1/18/2019***
+***Last edit: 21:01:49 1/18/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
