@@ -162,3 +162,9 @@ I also wrote sonething.
 
 - Update A Journey to macOS
   - Create more titles
+
+## 21:41:56 1/18/2019
+
+- Update A Journey to macOS
+- Create three-buttons-mouse-macOS.png
+- Create three-buttons-macOS.png
