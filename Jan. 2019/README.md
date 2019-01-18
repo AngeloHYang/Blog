@@ -148,3 +148,7 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
   - Fix word wrap with "\" in quote(>)
+  
+## 19:28:55 1/18/2019
+
+- Create A Journey to macOS
