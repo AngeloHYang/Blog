@@ -168,3 +168,8 @@ I also wrote sonething.
 - Update A Journey to macOS
 - Create three-buttons-mouse-macOS.png
 - Create three-buttons-macOS.png
+
+## 19:37:40 1/19/2019
+
+- Update A Journey to macOS
+  - More contents about the three buttons
