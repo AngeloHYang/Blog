@@ -1,14 +1,18 @@
 # A Journey to macOS
 
-***Last edit: 19:37:40 1/19/2019***
+***Last edit: 21:51:05 1/21/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
-## 1. Dock and Menu Bar
+## 1. Keyboard
+
+⌘(command), ⌥(option), ⇧(shift), ⇪(caps lock), ⌃(control), ↩(return), ⌅(enter)
+
+## 2. Dock and Menu Bar
 
 Unlike task bar in Windows, any program that is running on the screen is not on the dock, unless you dock it by pressing "minimize".
 
-## 2. Maximazation, Split View
+## 3. Maximization, Split View
 
 You must be really familiar with these three buttons on the **upper right side** of a window on Windows.
 
@@ -25,10 +29,18 @@ Second, at the first glance of them, you may see something similar to traffic li
 
 > ![three-buttons-mouse-macOS](three-buttons-mouse-macOS.png)
 
-Put the pointer close to these buttons, and take a guess, what are they? You can probably tell that the first button stands for "close" and the second button means "minimize", but you might be mistaken because the third button isn't exactly "maximize".
+Put the pointer close to these buttons, and take a guess, what are they? You can probably tell that the first button stands for "close" and the second button means "minimize", but you might be mistaken because the third button doesn't work as "maximize" button on Windows.
 
-## 3. Copy, Cut, Paste, Move, Duplicate, Alias
+Yes, the definition of "maximization" on macOS is different from what's on Windows. If you click the button where you though "maximize" should be, you will see the window at **fullscreen**.
+
+However, if you hold **⌥(option)** and move your mouse pointer near the three buttons, you'll see the fullscreen button turn into a "plus".
+
+> ![three-buttons-mouse-option-macOS](three-buttons-mouse-option-macOS.png)
+
+What would happen if you click the "plus" button? Well, the button means to zoom the window into **"the most appropriate size"**. Some windows might be maximized as that in Windows, occupying the screen except for the dock and the menu bar. Others may simply be larger or smaller, you'll still get to see the desktop.
+
+## 4. Copy, Cut, Paste, Move, Duplicate, Alias
 
 You can cut sentences like that in Windows, but you can't cut files.
 
-## 4. Installing a Program
+## 5. Installing a Program

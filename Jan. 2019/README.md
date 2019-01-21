@@ -173,3 +173,9 @@ I also wrote sonething.
 
 - Update A Journey to macOS
   - More contents about the three buttons
+
+## 21:51:05 1/21/2019
+
+- Update A Journey to macOS
+  - More contents about the three buttons
+- Create three-buttons-mouse-option-macOS.png
