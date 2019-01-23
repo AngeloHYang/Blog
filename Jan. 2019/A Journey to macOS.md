@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 12:44:22 1/23/2019***
+***Last edit: 0:29:13 1/24/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -8,17 +8,24 @@ For reasons I don't feel like telling, now I'm able to use macOS, and I'll be us
 
 The difference between Windows and macOS reveals on their hardwares. For instance, there are keys with different names on their keyboards.
 
-![Touche_Windows_8_10](Touche_Windows_8_10.jpg)
+Windows Keyboard:
 
-![mac-keyboard](mac-keyboard.jpg)
+> ![Touche_Windows_8_10](Touche_Windows_8_10.jpg)
+
+Mac Keyboard:
+
+> ![mac-keyboard](mac-keyboard.jpg)
 
 | Windows | Mac |
-| ---- | ---- |
+| :---- | ----: |
 | Ctrl | ⌃(control) |
 | Windows | ⌘(command) |
 | Alt | ⌥(option) |
+| Enter | ↩(return) |
 
-Irrelavant to the topic, here also some keys with logos. ⇧(shift), ⇪(caps lock) , ↩(return), ⌅(enter).
+Irrelevent to the topic, here also some keys with logos:
+
+⇧(shift), ⇪(caps lock), ⌅(enter).
 
 ## 2. Dock and Menu Bar
 
@@ -37,7 +44,6 @@ Things are quite different on macOS. First of all, these three buttons are on th
 > ![three-buttons-macOS](three-buttons-macOS.png)
 
 Second, at the first glance of them, you may see something similar to traffic lights.🚦
-
 
 > ![three-buttons-mouse-macOS](three-buttons-mouse-macOS.png)
 
@@ -59,11 +65,10 @@ You can cut sentences like that in Windows, but you can't cut files.
 
 ## 5. Installing a Program
 
-
 ----
 
 ## References
 
 1. Photo [Touche_Windows_8_10](https://en.m.wikipedia.org/wiki/Windows_key#/media/File%3ATouche_Windows_8_10.jpg), from [Windows Key - Wikipedia](https://en.m.wikipedia.org/wiki/Windows_key). Retrieved in January, 23, 2019.
 
-2. Photo [mac-keyboard](), from [12 Keyboard Shortcuts for Navigating & Selecting Text in Mac OS X](http://osxdaily.com/2012/02/23/keyboard-shortcuts-to-navigate-select-text-mac-os-x/). Retrieved in January, 23, 2019.
+2. Photo [mac-keyboard](http://cdn.osxdaily.com/wp-content/uploads/2012/02/mac-keyboard.jpg), from [12 Keyboard Shortcuts for Navigating & Selecting Text in Mac OS X](http://osxdaily.com/2012/02/23/keyboard-shortcuts-to-navigate-select-text-mac-os-x/). Retrieved in January, 23, 2019.

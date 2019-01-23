@@ -186,3 +186,9 @@ I also wrote sonething.
   - More contents about the three buttons
 - Create mac-keyboard.jpg
 - Create Touche_Windows_8_10.jpg
+
+## 0:29:13 1/24/2019
+
+- Update A Journey to macOS
+  - Grammatical revision
+  - Slight changes, nothing substancial
