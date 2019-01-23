@@ -179,3 +179,10 @@ I also wrote sonething.
 - Update A Journey to macOS
   - More contents about the three buttons
 - Create three-buttons-mouse-option-macOS.png
+
+## 12:44:22 1/23/2019
+
+- Update A Journey to macOS
+  - More contents about the three buttons
+- Create mac-keyboard.jpg
+- Create Touche_Windows_8_10.jpg

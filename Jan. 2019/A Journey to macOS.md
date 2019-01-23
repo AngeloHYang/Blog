@@ -1,12 +1,24 @@
 # A Journey to macOS
 
-***Last edit: 21:51:05 1/21/2019***
+***Last edit: 12:44:22 1/23/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
 ## 1. Keyboard
 
-⌘(command), ⌥(option), ⇧(shift), ⇪(caps lock), ⌃(control), ↩(return), ⌅(enter)
+The difference between Windows and macOS reveals on their hardwares. For instance, there are keys with different names on their keyboards.
+
+![Touche_Windows_8_10](Touche_Windows_8_10.jpg)
+
+![mac-keyboard](mac-keyboard.jpg)
+
+| Windows | Mac |
+| ---- | ---- |
+| Ctrl | ⌃(control) |
+| Windows | ⌘(command) |
+| Alt | ⌥(option) |
+
+Irrelavant to the topic, here also some keys with logos. ⇧(shift), ⇪(caps lock) , ↩(return), ⌅(enter).
 
 ## 2. Dock and Menu Bar
 
@@ -39,8 +51,19 @@ However, if you hold **⌥(option)** and move your mouse pointer near the three 
 
 What would happen if you click the "plus" button? Well, the button means to zoom the window into **"the most appropriate size"**. Some windows might be maximized as that in Windows, occupying the screen except for the dock and the menu bar. Others may simply be larger or smaller, you'll still get to see the desktop.
 
+You can also resize a window to the most appropriate size by clicking the title bar twice.
+
 ## 4. Copy, Cut, Paste, Move, Duplicate, Alias
 
 You can cut sentences like that in Windows, but you can't cut files.
 
 ## 5. Installing a Program
+
+
+----
+
+## References
+
+1. Photo [Touche_Windows_8_10](https://en.m.wikipedia.org/wiki/Windows_key#/media/File%3ATouche_Windows_8_10.jpg), from [Windows Key - Wikipedia](https://en.m.wikipedia.org/wiki/Windows_key). Retrieved in January, 23, 2019.
+
+2. Photo [mac-keyboard](), from [12 Keyboard Shortcuts for Navigating & Selecting Text in Mac OS X](http://osxdaily.com/2012/02/23/keyboard-shortcuts-to-navigate-select-text-mac-os-x/). Retrieved in January, 23, 2019.
