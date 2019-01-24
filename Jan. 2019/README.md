@@ -192,3 +192,8 @@ I also wrote sonething.
 - Update A Journey to macOS
   - Grammatical revision
   - Slight changes, nothing substancial
+
+## 23:53:29 1/24/2019
+
+- Update A Journey to macOS
+  - More contents

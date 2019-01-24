@@ -1,8 +1,10 @@
 # A Journey to macOS
 
-***Last edit: 0:29:13 1/24/2019***
+***Last edit: 23:53:29 1/24/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
+
+----
 
 ## 1. Keyboard
 
@@ -22,12 +24,21 @@ Mac Keyboard:
 | Windows | ⌘(command) |
 | Alt | ⌥(option) |
 | Enter | ↩(return) |
+| *Backspace* | *delete* |
 
-Irrelevent to the topic, here also some keys with logos:
+*Do note that the **Delete key on Windows Computers** is different from the **Delete Key on Macintosh Computers**.* 
 
-⇧(shift), ⇪(caps lock), ⌅(enter).
+*On Windows, "Backspace" deletes content **before** the text cursor while "Delete" deletes content **after** the text cursor.* 
+
+*On a Macintosh computer, the "delete" key deletes content **before** the text cursor. In order to delete afterward, you could try **fn + delete**. You can also delete everything after the text cursor with **fn + ⌥(option) + delete**.* 
+
+    Irrelevent to the topic, here also some keys with logos:
+
+    ⇧(shift), ⇪(caps lock), ⌅(enter).
 
 ## 2. Dock and Menu Bar
+
+The thing on the buttom of your screen with a lot of icons on it is called "Dock".
 
 Unlike task bar in Windows, any program that is running on the screen is not on the dock, unless you dock it by pressing "minimize".
 
