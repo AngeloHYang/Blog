@@ -197,3 +197,10 @@ I also wrote sonething.
 
 - Update A Journey to macOS
   - More contents
+
+## 00:37:42 1/26/2019
+
+- Update A Journey to macOS
+  - More contents
+- Create menu-bar.png
+- Create Dock.png

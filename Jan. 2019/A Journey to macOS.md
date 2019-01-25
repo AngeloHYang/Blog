@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 23:53:29 1/24/2019***
+***Last edit: 00:37:42 1/26/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -38,9 +38,25 @@ Mac Keyboard:
 
 ## 2. Dock and Menu Bar
 
-The thing on the buttom of your screen with a lot of icons on it is called "Dock".
+### Dock
 
-Unlike task bar in Windows, any program that is running on the screen is not on the dock, unless you dock it by pressing "minimize".
+The thing on the buttom of your computer screen with a lot of icons on it is called "Dock".
+
+> ![Dock](dock.png)
+
+The Dock functions similarly to the APP part of task bar in Windows where. This is the place where you could quickly run apps and see what is currently running. 
+
+One of the differences between Dock and task bar in Windows that you should probably take notice of is that, unlike task bar in Windows, any program that is running on the screen is not displayed on the (relevantly) right side of dock, unless you dock it by pressing the "minimize" button.
+
+### Menu Bar
+
+The menu bar locates on the top of your computer screen. 
+
+> ![menu bar](menu-bar.png)
+
+The Apple logo on the left side and these icons and the clock on the right side stay the same no matter what program you are currently running. From the Apple logo you can check out infomation about your computer and shut down your computer. The right side where these icons are is similar to the system tray in Windows.
+
+The menu in the middle is one of macOS's characteristics. The menu varies with the program you are currently using. On macOS, the menu bar is on the top of the screen while on Windows, the menu bar is usually below the title bar of a window.
 
 ## 3. Maximization, Split View
 
