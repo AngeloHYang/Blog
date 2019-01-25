@@ -42,7 +42,7 @@ Mac Keyboard:
 
 The thing on the buttom of your computer screen with a lot of icons on it is called "Dock".
 
-> ![Dock](dock.png)
+> ![Dock](Dock.png)
 
 The Dock functions similarly to the APP part of task bar in Windows where. This is the place where you could quickly run apps and see what is currently running. 
 
