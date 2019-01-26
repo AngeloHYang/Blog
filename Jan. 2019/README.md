@@ -209,3 +209,12 @@ I also wrote sonething.
 
 - Update A Journey to macOS
   - More contents
+
+## 14:41:38 1/26/2019
+
+- Update A Journey to macOS
+  - Finish writing 
+  - Create "Previous" and "Home"
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - Create "Next"

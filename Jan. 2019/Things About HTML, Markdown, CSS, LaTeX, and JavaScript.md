@@ -1,6 +1,6 @@
 # Things About HTML, Markdown, CSS, LaTeX, and JavaScript
 
-***Last edit: 00:08:42 1/16/2019***
+***Last edit: 14:41:38 1/26/2019***
 
 When it comes to creating a web page, the word HTML occurs constantly. As I study further and further, words like Markdown and CSS become familiar to me. Although I have never written anything in HTML, JavaScript, or CSS directly before, I believe it is of great use to **gather some information** about them.
 
@@ -184,5 +184,7 @@ This language is used in webs very often. It was **initially released in 1995**.
 ----
 
 ## **[⇦ Previous: Adding Photos in Markdown](https://angelohyang.github.io/Blog/Jan.%202019/Adding%20Photos%20in%20Markdown)**
+
+## **[⇨ Next: A Journey to macOS](https://angelohyang.github.io/Blog/Jan.%202019/A%20Journey%20to%20macOS)**
 
 ## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**

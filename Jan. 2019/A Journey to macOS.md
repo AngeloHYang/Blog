@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 13:06:51 1/26/2019***
+***Last edit: 14:41:38 1/26/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -8,7 +8,7 @@ For reasons I don't feel like telling, now I'm able to use macOS, and I'll be us
 
 ## 1. Keyboard
 
-The difference between Windows and macOS reveals on their hardwares. For instance, there are keys with different names on their keyboards.
+The difference between Windows and macOS reveals on their hardware. For instance, there are keys with different names on their keyboards.
 
 Windows Keyboard:
 
@@ -32,7 +32,7 @@ Mac Keyboard:
 
 *On a Macintosh computer, the "delete" key deletes content **before** the text cursor. In order to delete afterward, you could try **fn + delete**. You can also delete everything after the text cursor with **fn + ⌥(option) + delete**.* 
 
-    Irrelevent to the topic, here also some keys with logos:
+    Irrelevant to the topic, here also some keys with logos:
 
     ⇧(shift), ⇪(caps lock), ⌅(enter).
 
@@ -40,7 +40,7 @@ Mac Keyboard:
 
 ### Dock
 
-The thing on the buttom of your computer screen with a lot of icons on it is called "Dock".
+The thing on the bottom of your computer screen with a lot of icons on it is called "Dock".
 
 > ![Dock](Dock.png)
 
@@ -54,7 +54,7 @@ The menu bar locates on the top of your computer screen.
 
 > ![menu bar](menu-bar.png)
 
-The Apple logo on the left side and these icons and the clock on the right side stay the same no matter what program you are currently running. From the Apple logo you can check out infomation about your computer and shut down your computer. The right side where these icons are is similar to the system tray in Windows.
+The Apple logo on the left side and these icons and the clock on the right side stay the same no matter what program you are currently running. From the Apple logo you can check out information about your computer and shut down your computer. The right side where these icons are is similar to the system tray in Windows.
 
 The menu being in the middle on the top of the screen is one of macOS's characteristics. The menu varies with the program you are currently using. On macOS, the menu bar is on the top of the screen while on Windows, the menu bar is usually below the title bar of a window.
 
@@ -90,9 +90,21 @@ You can also resize a window to the most appropriate size by clicking the title 
 
 You can copy, cut, and paste sentences in Windows with Ctrl and C/X/V. You can do the same on macOS with **⌘(command)** and C/X/V.
 
-When it comes to files, you can copy and paste files the way  that you do to sentences, but you cannot cut(move) files with ⌘(command) + X.
+When it comes to files, you can copy and paste files the way  that you do to sentences, but you cannot cut(move) files with ⌘(command) + X. 
+
+To move a file, except for "drag and drop", you can ⌘(command) + C a file and then ⌘(command) + ⌥(option) + V.
+
+To make a duplicate is to make an identical copy of a file. A duplicate costs exactly the same disk space as the original file(unless you are using APFS).
+
+An alias is similar to a shortcut in Windows. An alias doesn't take much storage. If the original file was moved to another place, its alias would still be able to reach the original file. This is better than a shortcut in Windows(Although an alias is bigger than a shortcut on size). If the original file was gone, the alias would be useless.
 
 ## 5. Installing a Program
+
+There are many ways to install programs on macOS, but we are only going to talk about some common and easy ways here.
+
+You can install a program from the APP Store. This APP is self explanatory.
+
+You can also download a pkg file or a dmg file from the Internet. When running a pkg file, you should follow the setup instruction and click "next". If it's a dmg file, you'll need to drag the app to the "Applications" directory or wherever you'd like to put it.
 
 ----
 
@@ -101,3 +113,9 @@ When it comes to files, you can copy and paste files the way  that you do to sen
 1. Photo [Touche_Windows_8_10](https://en.m.wikipedia.org/wiki/Windows_key#/media/File%3ATouche_Windows_8_10.jpg), from [Windows Key - Wikipedia](https://en.m.wikipedia.org/wiki/Windows_key). Retrieved in January, 23, 2019.
 
 2. Photo [mac-keyboard](http://cdn.osxdaily.com/wp-content/uploads/2012/02/mac-keyboard.jpg), from [12 Keyboard Shortcuts for Navigating & Selecting Text in Mac OS X](http://osxdaily.com/2012/02/23/keyboard-shortcuts-to-navigate-select-text-mac-os-x/). Retrieved in January, 23, 2019.
+
+----
+
+## **[⇦ Previous:  Things About HTML, Markdown, CSS, LaTeX, and JavaScript](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20CSS%2C%20LaTeX%2C%20and%20JavaScript)**
+
+## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**

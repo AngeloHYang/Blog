@@ -19,3 +19,7 @@ If you encountered anything problems, feel free to file a bug on GitHub.
 ## 1/16/2019
 
 - [Things About HTML, Markdown, CSS, LaTeX, and JavaScript](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20CSS%2C%20LaTeX%2C%20and%20JavaScript)
+
+## 1/26/2019
+
+- [A Journey to macOS](https://angelohyang.github.io/Blog/Jan.%202019/A%20Journey%20to%20macOS)
