@@ -148,3 +148,73 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
   - Fix word wrap with "\" in quote(>)
+  
+## 19:28:55 1/18/2019
+
+- Create A Journey to macOS
+
+## 20:38:33 1/18/2019
+
+- Update A Journey to macOS
+  - Create "Dock", "Three Buttons on a Window"
+
+## 21:01:49 1/18/2019
+
+- Update A Journey to macOS
+  - Create more titles
+
+## 21:41:56 1/18/2019
+
+- Update A Journey to macOS
+- Create three-buttons-mouse-macOS.png
+- Create three-buttons-macOS.png
+
+## 19:37:40 1/19/2019
+
+- Update A Journey to macOS
+  - More contents about the three buttons
+
+## 21:51:05 1/21/2019
+
+- Update A Journey to macOS
+  - More contents about the three buttons
+- Create three-buttons-mouse-option-macOS.png
+
+## 12:44:22 1/23/2019
+
+- Update A Journey to macOS
+  - More contents about the three buttons
+- Create mac-keyboard.jpg
+- Create Touche_Windows_8_10.jpg
+
+## 0:29:13 1/24/2019
+
+- Update A Journey to macOS
+  - Grammatical revision
+  - Slight changes, nothing substancial
+
+## 23:53:29 1/24/2019
+
+- Update A Journey to macOS
+  - More contents
+
+## 00:37:42 1/26/2019
+
+- Update A Journey to macOS
+  - More contents
+- Create menu-bar.png
+- Create Dock.png
+
+## 13:06:51 1/26/2019
+
+- Update A Journey to macOS
+  - More contents
+
+## 14:41:38 1/26/2019
+
+- Update A Journey to macOS
+  - Finish writing 
+  - Create "Previous" and "Home"
+
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
+  - Create "Next"
