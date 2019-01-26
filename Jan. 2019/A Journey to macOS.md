@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 00:37:42 1/26/2019***
+***Last edit: 13:06:51 1/26/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -56,7 +56,7 @@ The menu bar locates on the top of your computer screen.
 
 The Apple logo on the left side and these icons and the clock on the right side stay the same no matter what program you are currently running. From the Apple logo you can check out infomation about your computer and shut down your computer. The right side where these icons are is similar to the system tray in Windows.
 
-The menu in the middle is one of macOS's characteristics. The menu varies with the program you are currently using. On macOS, the menu bar is on the top of the screen while on Windows, the menu bar is usually below the title bar of a window.
+The menu being in the middle on the top of the screen is one of macOS's characteristics. The menu varies with the program you are currently using. On macOS, the menu bar is on the top of the screen while on Windows, the menu bar is usually below the title bar of a window.
 
 ## 3. Maximization, Split View
 
@@ -70,7 +70,7 @@ Things are quite different on macOS. First of all, these three buttons are on th
 
 > ![three-buttons-macOS](three-buttons-macOS.png)
 
-Second, at the first glance of them, you may see something similar to traffic lights.🚦
+Second, at the first glance of them, you may see something similar to traffic lights.🚥
 
 > ![three-buttons-mouse-macOS](three-buttons-mouse-macOS.png)
 
@@ -88,7 +88,9 @@ You can also resize a window to the most appropriate size by clicking the title 
 
 ## 4. Copy, Cut, Paste, Move, Duplicate, Alias
 
-You can cut sentences like that in Windows, but you can't cut files.
+You can copy, cut, and paste sentences in Windows with Ctrl and C/X/V. You can do the same on macOS with **⌘(command)** and C/X/V.
+
+When it comes to files, you can copy and paste files the way  that you do to sentences, but you cannot cut(move) files with ⌘(command) + X.
 
 ## 5. Installing a Program
 

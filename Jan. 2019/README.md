@@ -204,3 +204,8 @@ I also wrote sonething.
   - More contents
 - Create menu-bar.png
 - Create Dock.png
+
+## 13:06:51 1/26/2019
+
+- Update A Journey to macOS
+  - More contents
