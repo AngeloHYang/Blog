@@ -218,3 +218,7 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
   - Create "Next"
+
+## 19:38:38 1/29/2019
+
+- Create How to Insert a Table to a Markdown File
