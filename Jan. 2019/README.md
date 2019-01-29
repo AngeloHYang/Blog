@@ -222,3 +222,7 @@ I also wrote sonething.
 ## 19:38:38 1/29/2019
 
 - Create How to Insert a Table to a Markdown File
+
+## 02:18:36 1/30/2019
+
+- Update How to Insert a Table to a Markdown File
