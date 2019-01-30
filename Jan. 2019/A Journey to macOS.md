@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 21:49:15 1/30/2019***
+***Last edit: 22:04:30 1/30/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -26,11 +26,11 @@ Mac Keyboard:
 | Enter | ↩(return) |
 | *Backspace* | *delete* |
 
-*Do note that the **Delete key on Windows Computers** is different from the **Delete Key on Macintosh Computers**.* 
+*Do note that the **Delete key on Windows Computers** is different from the **Delete Key on Macintosh Computers**.*
 
-*On Windows, "Backspace" deletes content **before** the text cursor while "Delete" deletes content **after** the text cursor.* 
+*On Windows, "Backspace" deletes content **before** the text cursor while "Delete" deletes content **after** the text cursor.*
 
-*On a Macintosh computer, the "delete" key deletes content **before** the text cursor. In order to delete afterward, you could try **fn + delete**. You can also delete everything after the text cursor with **fn + ⌥(option) + delete**.* 
+*On a Macintosh computer, the "delete" key deletes content **before** the text cursor. In order to delete afterward, you could try **fn + delete**. You can also delete everything after the text cursor with **fn + ⌥(option) + delete**.*
 
     Irrelevant to the topic, here also some keys with logos:
 
@@ -44,13 +44,13 @@ The thing on the bottom of your computer screen with a lot of icons on it is cal
 
 > ![Dock](Dock.png)
 
-The Dock functions similarly to the APP part of task bar in Windows where. This is the place where you could quickly run apps and see what is currently running. 
+The Dock functions similarly to the APP part of task bar in Windows where. This is the place where you could quickly run apps and see what is currently running.
 
 One of the differences between Dock and task bar in Windows that you should probably take notice of is that, unlike task bar in Windows, any program that is running on the screen is not displayed on the (relevantly) right side of dock, unless you dock it by pressing the "minimize" button.
 
 ### Menu Bar
 
-The menu bar locates on the top of your computer screen. 
+The menu bar locates on the top of your computer screen.
 
 > ![menu bar](menu-bar.png)
 
@@ -90,7 +90,7 @@ You can also resize a window to the most appropriate size by clicking the title 
 
 You can copy, cut, and paste sentences in Windows with Ctrl and C/X/V. You can do the same on macOS with **⌘(command)** and C/X/V.
 
-When it comes to files, you can copy and paste files the way  that you do to sentences, but you cannot cut(move) files with ⌘(command) + X. 
+When it comes to files, you can copy and paste files the way  that you do to sentences, but you cannot cut(move) files with ⌘(command) + X.
 
 To move a file, except for "drag and drop", you can ⌘(command) + C a file and then ⌘(command) + ⌥(option) + V.
 
