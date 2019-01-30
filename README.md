@@ -23,3 +23,7 @@ If you encountered anything problems, feel free to file a bug on GitHub.
 ## 1/26/2019
 
 - [A Journey to macOS](https://angelohyang.github.io/Blog/Jan.%202019/A%20Journey%20to%20macOS)
+
+## 1/30/2019
+
+- [How to Insert a Table to a Markdown File](https://https://angelohyang.github.io/Blog/Jan.%202019/How%20to%20Insert%20a%20Table%20to%20a%20Markdown%20File)

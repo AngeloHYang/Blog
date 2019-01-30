@@ -1,6 +1,6 @@
 # How to Insert a Table to a Markdown File
 
-***Last edit: 20:56:03 1/30/2019***
+***Last edit: 21:49:15 1/30/2019***
 
 I have inserted a lot of tables recently in Markdown, so I might as well write an article about how to do that.
 
@@ -33,5 +33,7 @@ These lines below are basically self-explanatory. But here are some points you s
 - The colon character determines the adjustment mode of this column. ":----" or "----"(no colon) stands for left-adjusted, ":----:" stands for "central-adjusted".
 
 ----
+
+## **[⇦ Previous: A Journey to macOS](https://angelohyang.github.io/Blog/Jan.%202019/A%20Journey%20to%20macOS)**
 
 ## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**

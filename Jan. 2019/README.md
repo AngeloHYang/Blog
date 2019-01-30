@@ -230,3 +230,10 @@ I also wrote sonething.
 ## 20:56:03 1/30/2019
 
 - Finish How to Insert a Table to a Markdown File
+
+## 21:49:15 1/30/2019
+
+- Update A Journey to macOS
+  - Create "Next"
+- Update How to Insert a Table to a Markdown File
+  - Create "Previous" and "Home"
