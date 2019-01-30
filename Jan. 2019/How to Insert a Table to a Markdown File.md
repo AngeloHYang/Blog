@@ -7,7 +7,8 @@ I have inserted a lot of tables recently in Markdown, so I might as well write a
 ----
 
 Everything is easy in Markdown, including adding a table. To create a table, all you need is these three characters:
-> "-", "|", ":".
+
+    "-", "|", ":".
 
 Let's create a table of the test results of some students with these lines.
 
