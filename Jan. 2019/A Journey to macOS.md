@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 14:41:38 1/26/2019***
+***Last edit: 21:49:15 1/30/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -117,5 +117,7 @@ You can also download a pkg file or a dmg file from the Internet. When running a
 ----
 
 ## **[⇦ Previous:  Things About HTML, Markdown, CSS, LaTeX, and JavaScript](https://angelohyang.github.io/Blog/Jan.%202019/Things%20About%20HTML%2C%20Markdown%2C%20CSS%2C%20LaTeX%2C%20and%20JavaScript)**
+
+## **[⇨ Next: How to Insert a Table to a Markdown File](https://https://angelohyang.github.io/Blog/Jan.%202019/How%20to%20Insert%20a%20Table%20to%20a%20Markdown%20File)**
 
 ## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**

@@ -218,3 +218,22 @@ I also wrote sonething.
 
 - Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
   - Create "Next"
+
+## 19:38:38 1/29/2019
+
+- Create How to Insert a Table to a Markdown File
+
+## 02:18:36 1/30/2019
+
+- Update How to Insert a Table to a Markdown File
+
+## 20:56:03 1/30/2019
+
+- Finish How to Insert a Table to a Markdown File
+
+## 21:49:15 1/30/2019
+
+- Update A Journey to macOS
+  - Create "Next"
+- Update How to Insert a Table to a Markdown File
+  - Create "Previous" and "Home"
