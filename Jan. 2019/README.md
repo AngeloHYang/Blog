@@ -237,3 +237,8 @@ I also wrote sonething.
   - Create "Next"
 - Update How to Insert a Table to a Markdown File
   - Create "Previous" and "Home"
+
+## 22:04:30 1/30/2019
+
+- Update How to Insert a Table to a Markdown File
+  - Fix Table display error
