@@ -242,3 +242,8 @@ I also wrote sonething.
 
 - Update How to Insert a Table to a Markdown File
   - Fix Table display error
+
+## 12:38:18 2/1/2019
+
+- Update A Journey to macOS
+  - Delete "Split View"

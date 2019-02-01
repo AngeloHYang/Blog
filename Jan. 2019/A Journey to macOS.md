@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 22:04:30 1/30/2019***
+***Last edit: 12:38:18 2/1/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -58,7 +58,7 @@ The Apple logo on the left side and these icons and the clock on the right side 
 
 The menu being in the middle on the top of the screen is one of macOS's characteristics. The menu varies with the program you are currently using. On macOS, the menu bar is on the top of the screen while on Windows, the menu bar is usually below the title bar of a window.
 
-## 3. Maximization, Split View
+## 3. Maximization
 
 You must be really familiar with these three buttons on the **upper right side** of a window on Windows.
 
