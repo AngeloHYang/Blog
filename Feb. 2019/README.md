@@ -1,1 +1,10 @@
-﻿# Timeline
+# Timeline
+
+## 15:30:00 2/5/2019
+
+- Create Finding Divisors - Algorithm Simplification.md
+
+## 16:04:49 2/5/2019
+
+- Update Finding Divisors - Algorithm Simplification.md
+- Create cut-in-half.png
