@@ -1,6 +1,6 @@
 # Finding Devisors - Algorithm Simplification 
 
-**Last edit: 16:04:49 2/5/2019***
+**Last edit: 17:46:43 2/7/2019***
 
 What would you do if you want to find all devisors of a number?
 
@@ -12,7 +12,7 @@ The first question is: what is a devisor? In short, if a number can be divided w
 
 Based on it's definition, we can easily come up with this method.
 
-	for numberCounter in range(1, inputNumber):
+	for numberCounter in range(1, inputNumber + 1):
 		if inputNumber % numberCounter == 0:
 			print(numberCounter, "is a divisor of", inputNumber)
 
@@ -21,4 +21,13 @@ Based on it's definition, we can easily come up with this method.
 The problem with the method below is that it's time consuming. Let's take a look at this graph:
 
 ![cut in half](cut-in-half.png)
+
+It isn't hard to tell that a divisor of a number besides itself can't be greater than half the value of the number. For example, the second greatest divisor of 64 is 32, the second greatest divisors of 28 is 14, the second greatest divisor of 9 is 3.
+
+Therefore, we can simply search from 1 to half the value of the number.
+
+	for numberCounter in range(1, int(inputNumber/2 + 1)):
+		if inputNumber % numberCounter == 0:
+			print(numberCounter, "is a divisor of", inputNumber)
+	print(inputNumber, "is a divisor of", inputNumber)
 

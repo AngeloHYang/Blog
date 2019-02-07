@@ -8,3 +8,7 @@
 
 - Update Finding Divisors - Algorithm Simplification.md
 - Create cut-in-half.png
+
+## 17:46:43 2/7/2019
+
+- Update Finding Divisors - Algorithm Simplification.md
