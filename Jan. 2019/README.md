@@ -252,3 +252,7 @@ I also wrote sonething.
 
 - Update How to Insert a Table to a Markdown File
   - Add "Next"
+
+## 16:59:59 2/9/2019
+- Update How to Insert a Table to a Markdown File
+  - A sentence was missing. Now fixed
