@@ -17,3 +17,7 @@
 
 - Create 80-match.jpeg
 - Update Finding Divisors - Algorithm Simplification.md
+
+## 16:15:02 2/9/2019
+
+- Finish Finding Divisors - Algorithm Simplification.md
