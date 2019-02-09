@@ -1,6 +1,6 @@
 # How to Insert a Table to a Markdown File
 
-***Last edit: 16:15:02 2/9/2019***
+***Last edit: 16:59:59 2/9/2019***
 
 I have inserted a lot of tables recently in Markdown, so I might as well write an article about how to do that.
 
@@ -32,7 +32,7 @@ These lines below are basically self-explanatory. But here are some points you s
 
 - A table can either have boarders or not. They both work.
 - Even though a markdown file may seem different on different platforms or programs when previewing, these headers are usually bold.
-- The colon character determines the adjustment mode of this column. ":----" or "----"(no colon) stands for left-adjusted, ":----:" stands for "central-adjusted".
+- The colon character determines the adjustment mode of this column. ":----" or "----"(no colon) stands for "left-adjusted", ":----:" stands for "central-adjusted", "----:" stands for "right-adjusted".
 
 ----
 
