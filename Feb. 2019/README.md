@@ -21,3 +21,8 @@
 ## 16:15:02 2/9/2019
 
 - Finish Finding Divisors - Algorithm Simplification.md
+
+
+## 21:57:36 2/17/2019
+
+- Create Binary Search.md
