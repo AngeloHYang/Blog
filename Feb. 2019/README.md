@@ -30,3 +30,7 @@
 ## 18:32:47 2/20/2019
 
 - Update Binary Search.md
+
+## 18:46:21 2/21/2019
+
+- Update Binary Search.md
