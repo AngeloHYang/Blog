@@ -34,3 +34,7 @@
 ## 18:46:21 2/21/2019
 
 - Update Binary Search.md
+
+## 22:46:13 2/23/2019
+
+- Finish Binary Search.md
