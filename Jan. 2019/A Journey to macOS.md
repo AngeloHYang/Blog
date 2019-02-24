@@ -1,6 +1,6 @@
 # A Journey to macOS
 
-***Last edit: 12:38:18 2/1/2019***
+***Last edit: 13:35:45 2/24/2019***
 
 For reasons I don't feel like telling, now I'm able to use macOS, and I'll be using it constantly in the near future. It's quite important for me to get familiar with this operating system, which is quite different from Windows. So, I'll lay out some **non-technical** but valuable differences that I think a macOS beginner like me could really use.
 
@@ -120,4 +120,4 @@ You can also download a pkg file or a dmg file from the Internet. When running a
 
 ## **[⇨ Next: How to Insert a Table to a Markdown File](https://angelohyang.github.io/Blog/Jan.%202019/How%20to%20Insert%20a%20Table%20to%20a%20Markdown%20File)**
 
-## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**
+## **[🏡 Back to Home Page](https://angelohyang.github.io/Blog/)**

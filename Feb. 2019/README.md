@@ -44,3 +44,10 @@
   - Add links to "previous" and "home"
 - Update Finding Divisors - Algorithm Simplification.md
   - Add links to "next"
+
+## 13:35:45 2/24/2019
+
+- Update Finish Binary Search.md
+  - Fix grammar mistakes
+- Update Finding Divisors - Algorithm Simplification.md
+  - Fix grammar mistakes
