@@ -1,6 +1,6 @@
 # Finding Devisors - Algorithm Simplification
 
-***Last edit: 16:15:02 2/9/2019***
+***Last edit: 11:58:57 2/24/2019***
 
 What would you do if you want to find all devisors of a number?
 
@@ -55,5 +55,7 @@ Because of which, we don't even have to search from 1 to half the value of the o
 ----
 
 ## **[⇦ Previous: How to Insert a Table to a Markdown File](https://angelohyang.github.io/Blog/Jan.%202019/How%20to%20Insert%20a%20Table%20to%20a%20Markdown%20File)**
+
+## **[⇨ Next: Binary Search](https://angelohyang.github.io/Blog/Feb.%202019/Feb.%202019/Binary%20Search)**
 
 ## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**
