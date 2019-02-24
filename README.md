@@ -34,4 +34,4 @@ If you encountered anything problems, feel free to file a bug on GitHub.
 
 ## 2/24/2019
 
-- [Binary Search](https://angelohyang.github.io/Blog/Feb.%202019/Feb.%202019/Binary%20Search)
+- [Binary Search](https://angelohyang.github.io/Blog/Feb.%202019/Binary%20Search)
