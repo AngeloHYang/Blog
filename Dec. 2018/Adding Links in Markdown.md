@@ -1,6 +1,6 @@
 # Adding Links in Markdown
 
-***Last edit: 14:48:29 1/14/2019***
+***Last edit: 13:35:45 2/24/2019***
 
 As a markup language, Markdown is capable of adding links into a web page/document. There are mainly three ways to add links in a md file.
 
@@ -57,4 +57,4 @@ For example, you could click this link <https://www.github.com>.
 
 ## **[⇨ Next: Adding Photos in Markdown](https://angelohyang.github.io/Blog/Jan.%202019/Adding%20Photos%20in%20Markdown)**
 
-## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**
+## **[🏡 Back to Home Page](https://angelohyang.github.io/Blog/)**

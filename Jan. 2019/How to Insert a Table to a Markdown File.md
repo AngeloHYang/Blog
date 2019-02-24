@@ -1,6 +1,6 @@
 # How to Insert a Table to a Markdown File
 
-***Last edit: 16:59:59 2/9/2019***
+***Last edit: 13:35:45 2/24/2019***
 
 I have inserted a lot of tables recently in Markdown, so I might as well write an article about how to do that.
 
@@ -40,4 +40,4 @@ These lines below are basically self-explanatory. But here are some points you s
 
 ## **[⇨ Next: Finding Divisors - Algorithm Simplification](https://angelohyang.github.io/Blog/Feb.%202019/Finding%20Divisors%20-%20Algorithm%20Simplification)**
 
-## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**
+## **[🏡 Back to Home Page](https://angelohyang.github.io/Blog/)**

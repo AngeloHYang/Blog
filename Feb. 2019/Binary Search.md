@@ -1,6 +1,6 @@
 # Binary Search
 
-***Last edit: 11:58:57 2/24/2019***
+***Last edit: 13:35:45 2/24/2019***
 
 You can accelerate the process of finding if a number exits in an array and where it is with **binary search**.
 
@@ -120,4 +120,4 @@ There's only one question left. What happens if the number you are looking for a
 
 ## **[⇦ Previous: Finding Divisors - Algorithm Simplification](https://angelohyang.github.io/Blog/Feb.%202019/Finding%20Divisors%20-%20Algorithm%20Simplification)**
 
-## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**
+## **[🏡 Back to Home Page](https://angelohyang.github.io/Blog/)**

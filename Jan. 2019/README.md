@@ -254,5 +254,15 @@ I also wrote sonething.
   - Add "Next"
 
 ## 16:59:59 2/9/2019
+
 - Update How to Insert a Table to a Markdown File
   - A sentence was missing. Now fixed
+
+## 13:35:45 2/24/2019  
+
+These are all the files with grammar mistakes. They are fixed now.
+
+- Update A Journey to macOS
+- Update Adding Photos in Markdown
+- Update How to Insert a Table to a Markdown File
+- Update Things About HTML, Markdown, CSS, LaTeX, and JavaScript
