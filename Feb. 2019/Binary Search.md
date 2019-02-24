@@ -1,6 +1,6 @@
 # Binary Search
 
-***Last edit: 22:46:13 2/23/2019***
+***Last edit: 11:58:57 2/24/2019***
 
 You can accelerate the process of finding if a number exits in an array and where it is with **binary search**.
 
@@ -115,3 +115,9 @@ Average performance | O(log n)
 Worst-case space complexity | O(1)
 
 There's only one question left. What happens if the number you are looking for appears multiple times in the array? I'm sure you can figure that out on your own.
+
+---
+
+## **[⇦ Previous: Finding Divisors - Algorithm Simplification](https://angelohyang.github.io/Blog/Feb.%202019/Finding%20Divisors%20-%20Algorithm%20Simplification)**
+
+## **[🏡 Back To Home Page](https://angelohyang.github.io/Blog/)**

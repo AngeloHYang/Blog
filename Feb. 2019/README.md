@@ -22,7 +22,6 @@
 
 - Finish Finding Divisors - Algorithm Simplification.md
 
-
 ## 21:57:36 2/17/2019
 
 - Create Binary Search.md
@@ -38,3 +37,10 @@
 ## 22:46:13 2/23/2019
 
 - Finish Binary Search.md
+
+## 11:58:57 2/24/2019
+
+- Update Finish Binary Search.md
+  - Add links to "previous" and "home"
+- Update Finding Divisors - Algorithm Simplification.md
+  - Add links to "next"
