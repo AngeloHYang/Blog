@@ -1,12 +1,14 @@
 # Blog
 
-If it were to happen that writing notes cannot satisfy me, that I need to write a long article, here shall be my blog.
+Blog, where I post articles when I feel like it. I'll try to make it coding related.
 
 > WARNING: THESE ARTICLES ARE SIMPLY A COLLECTION OF WHAT I HAVE LEARNED. PLEASE FEEL FREE TO CONTACT ME IF YOU FIND YOUR LEGAL RIGHTS VIOLATED.
 
-These dates below stand for when these articles were mostly done. There might be some revisions and minor changes after the date. If big changes were to be made to an article, it shall be released with a new date and a "(V2)", "(V3)", etc. The old ones will not be deleted.
+<!--
+These dates below stand for when these articles were mostly done. There might be some revisions and minor changes after the date. If big changes were to be made to an article, it shall be released with a new date and a "(V2)", "(V3)", etc. The old ones will not be deleted.`
 
-If you encountered anything problems, feel free to file a bug on GitHub.
+If you encounter anything problems, please feel free to file a bug on GitHub.
+--->
 
 ## 12/17/2018
 
@@ -35,3 +37,7 @@ If you encountered anything problems, feel free to file a bug on GitHub.
 ## 2/24/2019
 
 - [Binary Search](https://angelohyang.github.io/Blog/Feb.%202019/Binary%20Search)
+
+## 7/25/2019
+
+- [To Create a Simplified Version of *ls*](https://angelohyang.github.io/Blog/Jul.%202019/ls)
