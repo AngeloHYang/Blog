@@ -1,6 +1,6 @@
 # To Create a Simplified Version of *`ls`*
 
-***Last edit: 14:55:55 7/26/2019***
+***Last edit: 15:09:22 7/26/2019***
 
 So, I wrote a simplified version of the famous command `ls` in C++.
 
@@ -156,6 +156,19 @@ As for the name of a group:
     theGroup->gr_name;
 
 If there's no result to be found, these two functions will return `NULL`.
+
+## Arguments
+
+Unlike programs like *Theater Ticket Management System(TTMS)*, this program doesn't require you to input anything when running. Instead, all of the user inputs are arguments alongside the command to run this program.
+
+This is how you receive arguments in C/C++:
+
+    int main(int argc, char** argv)
+    {
+        ;
+    }
+
+`int argc`(argument counter) stands for the number of your arguments, including the command to run program itself. `char** argv`(argument vector) stores the contents.
 
 ## The Program
 
