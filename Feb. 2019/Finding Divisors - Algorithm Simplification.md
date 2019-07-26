@@ -39,7 +39,7 @@ Yet, we can make the algorithm even quicker.
 
 Had you noticed the divisors of a number, you'll see that divisors always comes in pairs. In another word, you can always get the original number from the product of its two divisors. If you have known a divisor, you can easily get another divisor by **the number / the divisor**.
 
-Because of which, we don't even have to search from 1 to half the value of the original number. We can stop at the square root of the original number. If the square root isn't an int, find the int greater than it.
+Because of which, we don't even have to search from 1 to half the value of the original number. We can stop at the square root of the original number. If the square root isn't an int, find the int less great than it.
 
     import math
     inputNumber = int(input())

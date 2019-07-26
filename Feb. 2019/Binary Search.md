@@ -120,4 +120,6 @@ There's only one question left. What happens if the number you are looking for a
 
 ## **[⇦ Previous: Finding Divisors - Algorithm Simplification](https://angelohyang.github.io/Blog/Feb.%202019/Finding%20Divisors%20-%20Algorithm%20Simplification)**
 
+## **[⇨ Next: To Create a Simplified Version of *ls*](https://angelohyang.github.io/Blog/Jul.%202019/ls)**
+
 ## **[🏡 Back to Home Page](https://angelohyang.github.io/Blog/)**
