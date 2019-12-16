@@ -184,4 +184,6 @@ The program consists of these functions above. When you run the program, it will
 
 ## **[⇦ Previous: Binary Search](https://angelohyang.github.io/Blog/Feb.%202019/Binary%20Search)**
 
+## **[⇨ Next: Variable in Java Enhanced For Statement](https://angelohyang.github.io/Blog/Dec%202019/Java_For_Reference_or_Copy)**
+
 ## **[🏡 Back to Home Page](https://angelohyang.github.io/Blog/)**

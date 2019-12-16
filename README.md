@@ -1,8 +1,14 @@
 # Blog
 
-Blog, where I post articles when I feel like it. I'll try to make it coding related.
+Some coding related stuff to share.
 
+<!---
+Blog, where I post thoughts about programing.
+--->
+
+<!---
 > WARNING: THESE ARTICLES ARE SIMPLY A COLLECTION OF WHAT I HAVE LEARNED. PLEASE FEEL FREE TO CONTACT ME IF YOU FIND YOUR LEGAL RIGHTS VIOLATED.
+--->
 
 <!--
 These dates below stand for when these articles were mostly done. There might be some revisions and minor changes after the date. If big changes were to be made to an article, it shall be released with a new date and a "(V2)", "(V3)", etc. The old ones will not be deleted.`
@@ -41,3 +47,7 @@ If you encounter anything problems, please feel free to file a bug on GitHub.
 ## 7/25/2019
 
 - [To Create a Simplified Version of *ls*](https://angelohyang.github.io/Blog/Jul.%202019/ls)
+
+## 12/16/2019
+
+- [Variable in Java Enhanced For Statement](https://angelohyang.github.io/Blog/Dec%202019/Java_For_Reference_or_Copy)
