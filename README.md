@@ -50,4 +50,4 @@ If you encounter anything problems, please feel free to file a bug on GitHub.
 
 ## 12/16/2019
 
-- [Variable in Java Enhanced For Statement](https://angelohyang.github.io/Blog/Dec%202019/Java_For_Reference_or_Copy)
+- [Variable in Java Enhanced For Statement](https://angelohyang.github.io/Blog/Dec.%202019/Java_For_Reference_or_Copy)
