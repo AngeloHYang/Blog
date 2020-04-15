@@ -4,14 +4,14 @@
 
 Java introduced a new way to iterate through Collections and arrays. It's sometimes referred as the `enhanced for statement`.
 
-For example:
+For example:`
 
     int[] numbers = {1,2,3,4,5,6,7,8,9,10};
     for (int number: numbers) {
         System.out.println(number);
     }
 
-It makes for loop more compact and easy to read.
+It makes for loop more compact and easier to read.
 
 The problem is, what happens if I make some changes to `number`? Is `number` a copy of an object in `numbers` or a reference?
 
@@ -30,7 +30,7 @@ The result is:
 
 > 1 2 3 4 5 6 7 8 9 10
 
-Thus the variable created by the Enhanced For loop is a copy of the object from the array or Collection.
+Thus, the variable created by the Enhanced For loop is a copy of the object from the array or Collection.
 
 ---
 
