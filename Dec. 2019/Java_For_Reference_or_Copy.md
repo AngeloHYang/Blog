@@ -42,4 +42,6 @@ Thus, the variable created by the Enhanced For loop is a copy of the object from
 
 ## **[⇦ Previous: To Create a Simplified Version of *ls*](https://angelohyang.github.io/Blog/Jul.%202019/ls)**
 
+## **[⇨ Next: Yes, Emails are leaking your IP address](../Aug.%202020/Email)**
+
 ## **[🏡 Back to Home Page](https://angelohyang.github.io/Blog/)**
