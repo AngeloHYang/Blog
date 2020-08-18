@@ -54,4 +54,4 @@ If you encounter anything problems, please feel free to file a bug on GitHub.
 
 ## 8/19/2020
 
-- [Yes, Emails are leaking your IP address](../Aug.%202020/Email)
+- [Yes, Emails are leaking your IP address](./Aug.%202020/Email)
